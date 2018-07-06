@@ -1,0 +1,18 @@
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%; }
+
+@page  
+{ 
+    size: auto;   /* auto is the initial value */ 
+
+    /* this affects the margin in the printer settings */ 
+    margin: 0mm;
+} 
+
+body { margin: 0; }
+
+.footer .container .text-muted { margin: 0; }
